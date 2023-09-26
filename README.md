@@ -10,7 +10,7 @@ GFWlist.conf 是为了只让被墙域名使用代理，尽可能的避免使用�
 
 ## 怎么使用
 
-你需要先复制这个URL：https://raw.githubusercontent.com/wildonchen/shadowrocket-GFWlist/main/GFWlist.conf
+你需要先复制这个URL：https://raw.githubusercontent.com/GazeboXu/shadowrocket-pac/main/GFWlist.conf
 
 再打开IOS 端的 Shadowrocket 软件，然后按照下图步骤操作即可：
 
